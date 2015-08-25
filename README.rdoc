@@ -1,3 +1,5 @@
 == Resolução de exercídios do livro Haskell: the craft of functional programming
 
+1. Lista 1
+       4.27 | 4.29 | 4.32 | 5.19 | 5.22
 
